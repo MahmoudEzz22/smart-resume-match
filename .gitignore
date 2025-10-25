@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/SmartResumeMatch.API/bin/Debug/net8.0
+/src/SmartResumeMatch.API/obj
+/src/SmartResumeMatch.Application/bin/Debug/net8.0
+/src/SmartResumeMatch.Application/obj
+/src/SmartResumeMatch.Domain/bin/Debug/net8.0
+/src/SmartResumeMatch.Domain/obj
+/src/SmartResumeMatch.Infrastructure/bin/Debug/net8.0
+/src/SmartResumeMatch.Infrastructure/obj
